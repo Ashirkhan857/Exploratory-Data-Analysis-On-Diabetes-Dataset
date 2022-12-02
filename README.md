@@ -33,7 +33,7 @@ Content
   - Glucose vs BloodPressure
   - Glucose vs BMI
 
-## Attribute Information
+Attribute Information
 ===============================
 
 + **Pregnancies** : Number of times pregnant
