@@ -9,8 +9,8 @@ Content
 ================
 
 - **Load libraries and Read data**
-  - Load libraries
-  - Read data
+  - 1.1 Load libraries
+  - 1.2 Read data
 
 - **Overview**
   -2.1. Head
