@@ -8,16 +8,16 @@ you clear insights of the dataset.
 Content
 ================
 
-+ **Load libraries and Read data**
+- **Load libraries and Read data**
   -1.1. Load libraries
   -1.2. Read data
 
-+ **Overview**
+- **Overview**
   -2.1. Head
   -2.2. Target
   -2.3. Missing values
 
-+ **Replacing missing values**
+- **Replacing missing values**
   -4.1. Glucose
   -4.2. BloodPressure
   -4.3. SkinThickness
